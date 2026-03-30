@@ -94,10 +94,8 @@ Attrition Rate = SUM(AttritionCount) / COUNT(EmployeeID)
 
 ## 📸 Dashboard Preview
 
-(Add your screenshot here)
+<img width="1457" height="818" alt="image" src="https://github.com/user-attachments/assets/e57f9a9b-a784-4066-a1cc-fca81e38b6b0" />
 
-Example:
-![Dashboard Screenshot](your-image-link-here)
 
 ---
 
